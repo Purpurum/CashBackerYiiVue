@@ -4,3 +4,16 @@ protected/runtime/*
 !protected/runtime/.gitignore
 protected/data/*.db
 themes/classic/views/
+/vendor/
+/runtime/
+/web/assets/
+/backend/runtime/
+/backend/web/assets/
+/frontend/runtime/
+/frontend/web/assets/
+/common/runtime/
+*.log
+/.idea/
+/.env
+.DS_Store
+Thumbs.db
